@@ -185,6 +185,7 @@ hr {
 }
 
 .article-item img {
+  float: left;
   width: 120px;
   padding-right: 20px;
 }
